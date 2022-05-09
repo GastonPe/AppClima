@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">AppClima</string>
+    <string name="ciudad">Ciudad</string>
+    <string name="actual">Actual</string>
+    <string name="por_hora">Por Hora</string>
+    <string name="introduce_una_ciudad">Introduce una ciudad</string>
+    <string name="por_dia">Por Dia</string>
+</resources>
